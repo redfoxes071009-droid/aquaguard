@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AquaGuard",
+  "description": "AquaGuard is a high-precision, real-time ocean monitoring and conservation platform that coordinates deep-sea autonomous drone telemetry, chemical composition analysis, active reef restoration missions, and marine species logs across Pacific Sector A-1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
